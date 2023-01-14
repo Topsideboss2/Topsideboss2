@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mark Murithi Kibara</h1>
 <h3 align="center">A Telecommunication and Information Engineering Student at Jomo Kenyatta University of Agriculture and Technology</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topsideboss2)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topsideboss2" alt="topsideboss2" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/muriifx" target="blank"><img src="https://img.shields.io/twitter/follow/muriifx?logo=twitter&style=for-the-badge" alt="muriifx" /></a> </p>
