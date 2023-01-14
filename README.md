@@ -9,13 +9,11 @@
 
 - 🔭 I’m currently studying at JOMO KENYATTA UNIVERSITY OF AGRICULTURE AND TECHNOLOGY [Telecommunication and Information Engineering](http://www.jkuat.ac.ke/)
 
-- 🌱 I’m currently learning software engineering at [ALX 12-month SE Program](https://www.alxafrica.com/software-engineering-2022/?utm_source=Google&utm_medium=cpc&utm_campaign=gt-ke-search-lead-gen-se&gclid=Cj0KCQjw0oyYBhDGARIsAMZEuMt-Ic317R7qK8cu55RitlIsi7QSKwdHM03FJjbKyfR99FU_IdDDyLcaAiAMEALw_wcB), cloud technologies, networking **Oracle Cloud, AWS, Google Cloud, Cisco**
-
-- 👯 I’m looking to collaborate on Network Automation using Python or Netmiko **The Whisper Project**
+- 🌱 I’m currently learning software engineering at [ALX 12-month SE Program](https://www.alxafrica.com/software-engineering-2022/?utm_source=Google&utm_medium=cpc&utm_campaign=gt-ke-search-lead-gen-se&gclid=Cj0KCQjw0oyYBhDGARIsAMZEuMt-Ic317R7qK8cu55RitlIsi7QSKwdHM03FJjbKyfR99FU_IdDDyLcaAiAMEALw_wcB)
 
 - 🤝 I’m passionate about cloud technologies such as **Oracle Cloud, AWS, Microsoft Azure, Google Cloud** and network engineering through **Cisco**
 
-- 👨‍💻 All of my projects are available at Git[Currently enrolled at ALX 12-month SE Program](https://www.alxafrica.com/software-engineering-2022/?uhub [https://github.com/Topsideboss2](https://github.com/Topsideboss2)
+- 👨‍💻 All of my projects such as [Backend-DevOps-Project](https://github.com/Topsideboss2/Backend-DevOps-Projects), [Python-Projects](https://github.com/Topsideboss2/Python-Projects), [Shell-Projects](https://github.com/Topsideboss2/Shell-Projects), [C-Projects](https://github.com/Topsideboss2/C-Projects), and [IoT-Projects](https://github.com/Topsideboss2/IoT-Projects) are available on github
 
 - 💬 Ask me about anything network automation and cloud technologies **OCI, AWS, CCNA**
 
