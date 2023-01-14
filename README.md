@@ -25,6 +25,8 @@
 
 ![Topsideboss2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topsideboss2&hide=stars)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/muriifx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muriifx" height="30" width="40" /></a>
