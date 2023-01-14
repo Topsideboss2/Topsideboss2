@@ -11,17 +11,17 @@
 
 - 🌱 I’m currently learning software engineering at [ALX 12-month SE Program](https://www.alxafrica.com/software-engineering-2022/?utm_source=Google&utm_medium=cpc&utm_campaign=gt-ke-search-lead-gen-se&gclid=Cj0KCQjw0oyYBhDGARIsAMZEuMt-Ic317R7qK8cu55RitlIsi7QSKwdHM03FJjbKyfR99FU_IdDDyLcaAiAMEALw_wcB)
 
-- 🤝 I’m passionate about cloud technologies such as **Oracle Cloud, AWS, Microsoft Azure, Google Cloud** and network engineering through **Cisco**
+- 🤝 Ask me anything about cloud technologies such as **Oracle Cloud, AWS, Microsoft Azure, Google Cloud** and network engineering through **Cisco**
 
 - 👨‍💻 All of my projects such as [Backend-DevOps-Project](https://github.com/Topsideboss2/Backend-DevOps-Projects), [Python-Projects](https://github.com/Topsideboss2/Python-Projects), [Shell-Projects](https://github.com/Topsideboss2/Shell-Projects), [C-Projects](https://github.com/Topsideboss2/C-Projects), and [IoT-Projects](https://github.com/Topsideboss2/IoT-Projects) are available on github
 
-- 💬 Ask me about anything network automation and cloud technologies **OCI, AWS, CCNA**
+- 💬 I am passionate about anything telecommunication and information engineering related and Electric Vehicles
 
-- 📫 How to reach me through email **markkibara2014@gmail.com**
+- 📫 Feel free to reach me through email **markkibara2014@gmail.comi**. I rarely check my mail but please do try.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ycIfpXKA25A6ivEhPNdH0ZCBaAc1puIA/view?usp=sharing](https://drive.google.com/file/d/1ycIfpXKA25A6ivEhPNdH0ZCBaAc1puIA/view?usp=sharing)
+- 📄 My CV-[https://drive.google.com/file/d/1Z9hoFu3e1V1EIRX6SThzq5ufwlY3okr-/view?usp=share_link]
 
-- ⚡ Fun fact **I love watching rom-coms and cycling during my free time**
+- ⚡ In my free time **I create IoT solutions to common problems affecting my community in agriculture**
 
 ![Topsideboss2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topsideboss2&hide=stars)
 <h3 align="left">Connect with me:</h3>
