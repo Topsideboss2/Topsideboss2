@@ -23,9 +23,7 @@
 
 - ⚡ Fun fact **I love watching rom-coms and cycling during my free time**
 
-![Topsideboss2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topsideboss2&hide=stars)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Topsideboss2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topsideboss&hide=stars&show_icons=true&theme=dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
