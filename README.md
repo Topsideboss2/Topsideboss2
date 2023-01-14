@@ -1,7 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=27&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Welcome+to+my+Profile!" align="middle" alt="Welcome to my Profile! animated typed out">
-<img  src="assests/borderseperator.gif">
-
 <h1 align="center">Hi 👋, I'm Mark Murithi Kibara</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=27&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Welcome+to+my+Profile!" align="middle" alt="Welcome to my Profile! animated typed out">
 <h3 align="center">A Telecommunication and Information Engineering Student at Jomo Kenyatta University of Agriculture and Technology</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topsideboss2" alt="topsideboss2" /></a> </p>
