@@ -13,7 +13,7 @@
 
 - 🤝 Ask me anything about cloud technologies such as **Oracle Cloud, AWS, Microsoft Azure, Google Cloud** and network engineering through **Cisco**
 
-- 👨‍💻 All of my projects such as [Backend-DevOps-Project](https://github.com/Topsideboss2/Backend-DevOps-Projects), [Python-Projects](https://github.com/Topsideboss2/Python-Projects), [Shell-Projects](https://github.com/Topsideboss2/Shell-Projects), [C-Projects](https://github.com/Topsideboss2/C-Projects), and [IoT-Projects](https://github.com/Topsideboss2/IoT-Projects) are available on github
+- 👨‍💻 All of my projects such as [DevOps-Project](https://github.com/Topsideboss2/Backend-DevOps-Projects), [Python-Projects](https://github.com/Topsideboss2/Python-Projects), [Shell-Projects](https://github.com/Topsideboss2/Shell-Projects), [C-Projects](https://github.com/Topsideboss2/C-Projects), and [IoT-Projects](https://github.com/Topsideboss2/IoT-Projects) are available on github
 
 - 💬 I am passionate about anything telecommunication and information engineering related and Electric Vehicles
 
