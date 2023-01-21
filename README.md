@@ -21,7 +21,7 @@
 
 - 📄 My CV is [here](https://drive.google.com/file/d/1Z9hoFu3e1V1EIRX6SThzq5ufwlY3okr-/view?usp=share_link)
 
-- ⚡ In my free time **I create IoT solutions to common problems affecting my community in agriculture**
+- ⚡ In my free time **I create IoT solutions to common problems affecting my community**
 
 ![Topsideboss2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topsideboss2&hide=stars)
 <h3 align="left">Connect with me:</h3>
