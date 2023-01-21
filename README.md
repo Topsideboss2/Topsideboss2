@@ -17,7 +17,7 @@
 
 - 💬 I am passionate about anything telecommunication and information engineering related and Electric Vehicles
 
-- 📫 Feel free to reach me through email **markkibara2014@gmail.comi**. I rarely check my mail but please do try.
+- 📫 Feel free to reach me through email **markkibara2014@gmail.com**. I rarely check my mail but please do try.
 
 - 📄 My CV is [here](https://drive.google.com/file/d/1Z9hoFu3e1V1EIRX6SThzq5ufwlY3okr-/view?usp=share_link)
 
