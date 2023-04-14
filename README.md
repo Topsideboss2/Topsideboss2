@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying at JOMO KENYATTA UNIVERSITY OF AGRICULTURE AND TECHNOLOGY [Telecommunication and Information Engineering](http://www.jkuat.ac.ke/)
 
-- 🌱 I’m currently enrolled in a 12-month Software Engineering programme at [ALX Africa's](https://www.alxafrica.com/software-engineering-2022/?utm_source=Google&utm_medium=cpc&utm_campaign=gt-ke-search-lead-gen-se&gclid=Cj0KCQjw0oyYBhDGARIsAMZEuMt-Ic317R7qK8cu55RitlIsi7QSKwdHM03FJjbKyfR99FU_IdDDyLcaAiAMEALw_wcB).
+- 🌱 I’m currently enrolled in a 12-month Software Engineering programme at [ALX Africa](https://www.alxafrica.com/software-engineering-2022/?utm_source=Google&utm_medium=cpc&utm_campaign=gt-ke-search-lead-gen-se&gclid=Cj0KCQjw0oyYBhDGARIsAMZEuMt-Ic317R7qK8cu55RitlIsi7QSKwdHM03FJjbKyfR99FU_IdDDyLcaAiAMEALw_wcB).
 
 - 🤝 Ask me anything about cloud technologies such as **Oracle Cloud, AWS, Google Cloud**
 
