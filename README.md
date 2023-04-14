@@ -10,7 +10,7 @@
 
 - 🤝 Ask me anything about cloud technologies such as **Oracle Cloud, AWS, Google Cloud**
 
-- 👨‍💻 All of my projects such as are available right here on github
+- 👨‍💻 All of my projects are available right here on github
 
 - 💬 I am very passionate about Electric Vehicles
 
