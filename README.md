@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mark Murithi Kibara</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=27&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Welcome+to+my+Profile!" align="middle" alt="Welcome to my Profile! animated typed out">
-<h3 align="center">A Telecommunication and Information Engineering Student at Jomo Kenyatta University of Agriculture and Technology</h3>
 
 <p align="left"> <a href="https://twitter.com/muriifx" target="blank"><img src="https://img.shields.io/twitter/follow/muriifx?logo=twitter&style=for-the-badge" alt="muriifx" /></a> </p>
 
