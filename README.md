@@ -7,19 +7,19 @@
 
 - 🔭 I’m currently studying at JOMO KENYATTA UNIVERSITY OF AGRICULTURE AND TECHNOLOGY [Telecommunication and Information Engineering](http://www.jkuat.ac.ke/)
 
-- 🌱 I’m currently learning software engineering at [ALX Africa's](https://www.alxafrica.com/software-engineering-2022/?utm_source=Google&utm_medium=cpc&utm_campaign=gt-ke-search-lead-gen-se&gclid=Cj0KCQjw0oyYBhDGARIsAMZEuMt-Ic317R7qK8cu55RitlIsi7QSKwdHM03FJjbKyfR99FU_IdDDyLcaAiAMEALw_wcB) 12-month SE Program.
+- 🌱 I’m currently enrolled in a 12-month Software Engineering programme at [ALX Africa's](https://www.alxafrica.com/software-engineering-2022/?utm_source=Google&utm_medium=cpc&utm_campaign=gt-ke-search-lead-gen-se&gclid=Cj0KCQjw0oyYBhDGARIsAMZEuMt-Ic317R7qK8cu55RitlIsi7QSKwdHM03FJjbKyfR99FU_IdDDyLcaAiAMEALw_wcB).
 
-- 🤝 Ask me anything about cloud technologies such as **Oracle Cloud, AWS, Microsoft Azure, Google Cloud** and network engineering through **Cisco**
+- 🤝 Ask me anything about cloud technologies such as **Oracle Cloud, AWS, Google Cloud**
 
-- 👨‍💻 All of my projects such as [DevOps-Project](https://github.com/Topsideboss2/Backend-DevOps-Projects), [Python-Projects](https://github.com/Topsideboss2/Python-Projects), [Shell-Projects](https://github.com/Topsideboss2/Shell-Projects), [C-Projects](https://github.com/Topsideboss2/C-Projects), and [IoT-Projects](https://github.com/Topsideboss2/IoT-Projects) are available on github
+- 👨‍💻 All of my projects such as are available right here on github
 
-- 💬 I am passionate about anything telecommunication and information engineering related and Electric Vehicles
+- 💬 I am very passionate about Electric Vehicles
 
 - 📫 Feel free to reach me through email **markkibara2014@gmail.com**. I rarely check my mail but please do try.
 
 - 📄 My CV is [here](https://drive.google.com/file/d/1Z9hoFu3e1V1EIRX6SThzq5ufwlY3okr-/view?usp=share_link)
 
-- ⚡ In my free time **I create IoT solutions to common problems affecting my community**
+- ⚡ In my free time **I create interesting IoT solutions to problems that affect my community**
 
 ![Topsideboss2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topsideboss2&hide=stars)
 <h3 align="left">Connect with me:</h3>
