@@ -16,7 +16,7 @@
 
 - 📫 Feel free to reach me through email **markkibara2014@gmail.com**. I rarely check my mail but please do try.
 
-- 📄 My CV is [here](https://drive.google.com/file/d/1Z9hoFu3e1V1EIRX6SThzq5ufwlY3okr-/view?usp=share_link)
+- 📄 My CV is [here](https://drive.google.com/file/d/15-CZldT1guNk8AHrtVfJCwVZDZMKx3Gc/view?usp=sharing)
 
 - ⚡ In my free time **I create interesting IoT solutions to problems that affect my community**
 
